@@ -1,0 +1,23 @@
+.menu{
+    width: 300px;
+    background: #232526;
+    height: 673px;
+    color: white;
+    z-index: 5;
+    position: absolute;
+    top: 80px;
+    left: 0px;
+}
+.list1{
+    padding-left: 70px;
+    list-style: none;
+    font-size: 18px;
+}
+.list1 li{
+    list-style: none;
+    font-size: 20px;
+    margin-bottom: 13px;
+}
+.menu h2{
+    padding: 20px;
+}
